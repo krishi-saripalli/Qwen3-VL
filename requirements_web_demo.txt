@@ -9,4 +9,4 @@ accelerate
 
 # Optional dependency
 # Uncomment the following line if you need flash-attn
-# flash-attn
+flash-attn
